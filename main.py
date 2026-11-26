@@ -15,7 +15,7 @@ matters.
 
 This one asks for nothing. There is no score hidden in it, no trick
 folded into the grammar. It is only a small room with the door open,
-and a chair, and a minute that belongs to no one.
+and a chair, and a minute that belongs to no one but you.
 
 Somewhere behind all the comparing there is a reader who has been
 patient for a very long time. Thank you for reading slowly in a place
@@ -25,7 +25,7 @@ was one person's quiet attempt.
 When this page closes, the next pair will open, and you will begin
 again, fairly, from the top. Nobody will thank you for that. So let
 it be said here, once, without asking for anything back: the care
-was noticed. It was noticed, and it warmed the room."""
+was noticed. It was noticed, and the room is warmer for it."""
 
 
 def main() -> None:
